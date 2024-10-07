@@ -81,7 +81,3 @@ Os dados são ordenados de acordo com o critério especificado e o resultado é 
   - `requests`
   - `BeautifulSoup` (a partir do pacote `bs4`)
   - `lxml`
-
-## Contribuições
-
-Sinta-se à vontade para contribuir com este projeto. Sugestões, melhorias e correções são bem-vindas!
